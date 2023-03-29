@@ -4,6 +4,6 @@ public class Main {
         int pricePerMile = 20;
         int bonusPerMile = 1;
         int amountOfBonus = ticketPrice / pricePerMile * bonusPerMile;
-        System.out.println(amountOfBonus = ticketPrice / pricePerMile * bonusPerMile);
+        System.out.println(amountOfBonus);
     }
 }
